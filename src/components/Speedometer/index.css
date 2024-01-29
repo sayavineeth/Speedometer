@@ -1,0 +1,50 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #fff;
+}
+.image {
+  width: 400px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+  color: #fff;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 600;
+  color: #cbd5e1;
+}
+.buttons {
+  display: flex;
+}
+.button-1 {
+  background-color: #0b69ff;
+  border-radius: 10px;
+  border: 1px solid;
+  color: #fff;
+  padding: 15px;
+  margin: 15px;
+}
+.button-2 {
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  color: #cbd5e1;
+  padding: 15px;
+  margin: 15px;
+}
